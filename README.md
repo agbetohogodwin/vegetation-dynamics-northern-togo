@@ -36,9 +36,10 @@ Données démographiques : INSEED (recensement 2022)
 
 
 Cartes produites
-Afficher l'image
-Afficher l'image
-Afficher l'image
+
+![Evolution de la végétation](https://raw.githubusercontent.com/agbetohogodwin/vegetation-dynamics-northern-togo/main/outputs/EVOLUTION%20DE%20LA%20VEGETATION.png)
+![Evolution des feux](https://raw.githubusercontent.com/agbetohogodwin/vegetation-dynamics-northern-togo/main/outputs/EVOLUTION%20DES%20FEUX.png)
+![Evolution des sols nus](https://raw.githubusercontent.com/agbetohogodwin/vegetation-dynamics-northern-togo/main/outputs/EVOLUTION%20DES%20SOLS%20NUS.png)
 
 
 Structure du dépôt
