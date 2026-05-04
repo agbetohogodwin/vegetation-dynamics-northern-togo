@@ -47,12 +47,19 @@ Données démographiques : INSEED (recensement 2022)
 ## Structure du dépôt
 
 ├── scripts/
+
 │   └── indices_sentinel2_ndtogo.js
+
 │   ├── dnbr_sentinel2_ndtogo.js
+
 ├── outputs/
+
 │   ├── EVOLUTION DE LA VEGETATION.png
+
 │   ├── EVOLUTION DES FEUX.png
+
 │   └── EVOLUTION DES SOLS NUS.png
+
 └── README.md
 
 
